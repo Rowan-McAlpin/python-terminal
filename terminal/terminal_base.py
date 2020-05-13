@@ -14,7 +14,7 @@ def command(data):
 
     elif inputCommand == "help":
         print(" The commands you can use are:")
-        print("     exit - quit the terminal - This doesn't work in MU 1.0.2.")
+        print("     exit - quit the terminal")
         print("     help - opens the help page")
         print("     print-data - View your data")
         print("     change-user - Change the username")
